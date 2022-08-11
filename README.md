@@ -1,5 +1,5 @@
- Hey! I’m @ClipzGit 😋
- but you can call me Cameron :)
+ #Hello Welcome to my GitHub Profile! 
+ **My name is Cameron, I am going to give you a brief introduction about myself.**
  
  I have been interested in Software Development & Website Development since 2017, 
  and ever since I have been self teaching myself programming and attending College courses. 
