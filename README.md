@@ -3,7 +3,7 @@
  **My name is Cameron, I am going to give you a brief introduction about myself.**
  
  I have been interested in Software Development & Website Development since 2017, 
- and ever since I have been self teaching myself programming and attending College courses. 
+ and ever since I have been self teaching myself programming. 
  
  Languages that I have thorough expierence in:
  - C# .NET 💻
